@@ -83,5 +83,6 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 Este proyecto está licenciado bajo la Licencia ISC. Consulta el archivo `LICENSE` para más detalles.
 
 ## Resultado final 
-![alt text](image.png)
+![image](https://github.com/josemi-98/TimerPWA/assets/57486879/32dd50c2-a547-4805-9c4e-37f1c0d7bd9d)
+
 
