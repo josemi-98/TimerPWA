@@ -82,3 +82,6 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 
 Este proyecto está licenciado bajo la Licencia ISC. Consulta el archivo `LICENSE` para más detalles.
 
+## Resultado final 
+![alt text](image.png)
+
